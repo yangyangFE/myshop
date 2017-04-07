@@ -1,0 +1,38 @@
+.classSearch{
+	background-color: #f5f5f9;
+}
+.g_table{
+	margin-top: 2rem;
+}
+.goodsDiv1{
+	height: 5rem;
+	width: 100%;
+	margin-bottom: 0.5rem;
+	background-color: #fff;
+}
+.goodsImg1{
+	float: left;
+	height: 100%;
+	width: 35%;
+}
+.right1{
+	float: left;
+	height: 100%;
+	width: 65%;
+}
+.goods_message1{
+	clear: left;
+	height: 60%;
+	width: 100%;
+}
+.goods_price1{
+	float: left;
+	height: 40%;
+	width: 80%;
+	color: red;
+}
+.joinBasket1{
+	float: left;
+	height: 40%;
+	width: 20%;
+}

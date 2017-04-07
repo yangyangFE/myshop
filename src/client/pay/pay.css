@@ -1,0 +1,33 @@
+.message{
+	margin-top: 2rem;
+}
+.user_message{
+	height: 3rem;
+	width: 100%;
+}
+.p_message_top{
+	height: 1.5rem;
+	width: 100%;
+}
+.p_userName{
+	float: left;
+	width: 30%;
+}
+.p_userId{
+	float: left;
+	width: 70%;
+}
+.p_userAddress{
+	height: 1.5rem;
+	width: 100%;
+}
+.p_joinBasket{
+	float: left;
+	width: 48%;
+	height: 100%;
+	padding-top: 0.6rem;
+	padding-right: 2%;
+	text-align: right;
+	color: red;
+	background-color: #fff;
+}

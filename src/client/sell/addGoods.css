@@ -1,0 +1,23 @@
+.am-icon-xxs{
+	height: 1.2rem;
+	width: 1.2rem;
+}
+.sumbitButton{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 2rem;
+}
+.am-image-picker{
+	height: 10rem;
+}
+.am-navbar{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 2rem;
+	z-index: 1000;
+}
+.goods_divTable{
+	margin-bottom: 2rem;
+}

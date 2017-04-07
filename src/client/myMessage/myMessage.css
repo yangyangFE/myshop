@@ -1,0 +1,40 @@
+.myMessage{
+	background-color: #fff;
+}
+.m_user_message{
+	height: 3rem;
+	width: 100%;
+	margin-top: 2rem;
+	border-bottom: 1PX solid #5C5C5C;
+}
+.m_user_img{
+	float: left;
+	height: 100%;
+	width: 20%;
+}
+.m_u_mright{
+	float: left;
+	height: 100%;
+	width: 60%;
+}
+.m_userName{
+	height: 50%;
+	width: 100%;
+	text-align: left;
+}
+.m_userId{
+	height: 50%;
+	width: 100%;
+	text-align: left;
+}
+.m_openMessage{
+	float: left;
+	height: 100%;
+	width: 20%;
+}
+.m_button{
+	position: fixed;
+	height: 2rem;
+	width: 100%;
+	bottom: 2rem;
+}

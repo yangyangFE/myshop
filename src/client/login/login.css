@@ -1,0 +1,26 @@
+.login{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+}
+.idInput{
+	margin-top: 7rem;
+	width: 95%;
+}
+.passwordInput{
+	margin-top: 0.5rem;
+	width: 95%;
+}
+.loginButton{
+	margin-top: 0.5rem;
+	width: 90%;
+	margin-left: 5%;
+}
+.join{
+	float: right;
+	margin-top:0.5rem;
+	margin-right: 1rem;
+	font-family:PingFang SC Medium;
+	color:#1baede;
+}

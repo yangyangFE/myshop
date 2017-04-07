@@ -1,0 +1,36 @@
+#tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 0.8rem;
+}
+#tab-bar .demo-preview-item,
+#tab-bar .demo-preview-item .am-tab-bar {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
+html {
+  box-sizing: border-box;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-size: 50px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {
+  margin: 0;
+  padding: 0;
+}

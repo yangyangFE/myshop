@@ -1,0 +1,52 @@
+.searchBar{
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 2rem;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+}
+.carousel{
+	height: 8rem;
+	width: 100%;
+	margin-top: -2rem;
+	z-index: 0;
+	text-align: center;
+}
+section{
+	width: 100%;
+}
+.assortment{
+	height: 7.8rem;
+	width: 100%;
+}
+.intr1{
+	height: 1.5rem;
+	width: 100%;
+	text-align: center;
+	border-bottom: solid 1PX #000000;
+	border-top: solid 1PX #000000;
+}
+.tag1{
+	height: 1.5rem;
+	width: 100%;
+	border-bottom: solid 1PX #000000;
+}
+.ass1{
+	float: left;
+	height: 100%;
+	width: 24.8%;
+	border-right: solid 1px #6C6C6C;
+}
+.ass2{
+	float: left;
+	height: 50%;
+	width: 24.8%;
+	border-right: solid 1px #6C6C6C;
+	border-bottom: solid 1px #6C6C6C;
+}
+.am-search{
+	background: inherit;
+}
+
